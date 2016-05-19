@@ -1,3 +1,14 @@
+# gr: unity
+*.csproj
+*.sln
+*.userprefs
+*.suo
+[Bb]uild
+[Tt]emp
+[Ll]ibrary
+[Oo]bj
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
